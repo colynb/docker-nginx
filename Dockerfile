@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER YOUR NAME colyn.brown@investability.com
+MAINTAINER YOUR NAME colyn.brown@gmail.com
 
 CMD ["/sbin/my_init"]
 
